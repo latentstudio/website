@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/website`,
+  pathPrefix: `/`,
   siteMetadata: {
     title: 'Latent Studio - Creative studio specializing in machine learning',
   },

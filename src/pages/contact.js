@@ -1,7 +1,8 @@
 import React, {Component} from 'react'
 import Link from 'gatsby-link'
 
-import styles from './styles/about.module.css';
+import styles from './styles/contact.module.css';
+import img from './../pages/projects/01uncannyroad/03.jpg';
 
 class AboutPage extends Component {
   render() {
@@ -9,9 +10,11 @@ class AboutPage extends Component {
       <div>
         <div className='container'>
           <div className='row'>
-            <div className={`col-11 offset-0 ${styles.Banner}`}>
-              <h1>Creative studio specializing in machine learning<span>.</span>
-              </h1>
+            <div className={`col-11 offset-0 ${styles.Main}`}>
+              <h1>Contact Us</h1>
+              <div className={styles.HorizontalLine}></div>
+              <img src={img} alt="uncannry road"/>
+              <p>info@latentstudio.com</p>
             </div>
           </div>
         </div>

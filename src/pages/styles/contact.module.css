@@ -1,0 +1,22 @@
+.Main{
+  margin: 4rem 0px 10rem 0px;
+}
+
+.Main h1 {
+  font-size: 2rem;
+}
+
+.HorizontalLine{
+  width: 30px;
+  background: rgb(0, 0, 0);
+  height: 3px;
+  margin: 0px 0px 4rem 0px;
+}
+
+.Main img{
+  width: 100%;
+}
+
+.Main p{
+  margin: 2rem 0px 0px 0px;
+}
