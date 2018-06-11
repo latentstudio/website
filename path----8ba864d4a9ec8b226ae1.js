@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{103:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Latent Studio - Creative studio specializing in machine learning"}}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{102:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Latent Studio - Creative studio specializing in machine learning"}}},layoutContext:{}}}});
 //# sourceMappingURL=path----8ba864d4a9ec8b226ae1.js.map
