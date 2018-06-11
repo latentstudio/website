@@ -1,0 +1,26 @@
+.Footer{
+  /* margin: 10rem 0px 0px 0px; */
+  background: rgb(211, 211, 211);
+  padding: 4rem 10rem;
+}
+
+.Footer ul a {
+  color: rgb(70, 70, 70);
+}
+
+.Footer ul li{
+  color: rgb(70, 70, 70);
+  font-weight: lighter;
+  margin: 10px 20px;
+  font-size: 0.8rem;
+  font-family: 'PT Mono', monospace;
+  display: inline;
+}
+
+.Footer p {
+  font-size: 0.8rem;
+  font-family: 'PT Mono', monospace;
+  color: rgb(61, 61, 61);
+  float: right;
+  display: inline;
+}

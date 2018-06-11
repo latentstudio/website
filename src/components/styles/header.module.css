@@ -1,0 +1,43 @@
+.Header{
+  background: #fafafa;
+  margin: 0px 0px 0rem 0px;
+  padding: 2vw 10vw 3vh 10vw;
+}
+
+.Logo img{
+  width: 6rem;
+}
+
+.Logo a{
+  text-decoration: none;
+}
+
+.Logo h3{
+  color: rgb(27, 27, 27);
+  text-decoration: none;
+  font-family: 'PT Mono', monospace;
+  /* background: rgb(26, 26, 26); */
+  font-size: 0.8rem;
+  display: inline-block;
+  /* padding: 0.4rem 2rem; */
+}
+
+.Menu ul a {
+  color: rgb(34, 34, 34);
+  text-decoration: none;
+}
+
+.Menu ul li{
+  color: rgb(34, 34, 34);
+  display: inline;
+  font-family: 'Overpass',  sans-serif;
+  font-weight: 100;
+  font-size: 0.7rem;
+  margin: 0px 1vw;
+  cursor: pointer;
+  padding: 1px 0px;
+}
+
+.Menu ul li:hover{
+  border-bottom: 2px solid rgb(20, 20, 20);
+}

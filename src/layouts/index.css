@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Overpass:300,400|PT+Mono');
+
+*{
+
+}
+
+html {
+  font-family: 'Overpass',  sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body{
+  overflow-x: hidden;
+}

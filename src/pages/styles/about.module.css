@@ -1,0 +1,68 @@
+.Main {
+  margin: 8rem 0px 0px 0px;
+}
+
+.Main h1{
+  font-weight: lighter;
+  font-size: 1.8rem;
+  color: rgb(71, 71, 71);
+  margin: 0px 0px 4rem 0px;
+}
+
+
+.Second h1{
+  font-family: 'PT Mono', monospace;
+  font-weight: 100;
+  font-size: 1.4rem;
+  margin: 4rem 0px;
+  color: rgb(199, 199, 199);
+  line-height: 1.8rem;
+}
+
+.VerticalLine {
+  width: 2px;
+  height: 200px;
+  background: rgb(196, 196, 196);
+}
+
+.Who{
+  margin: 1rem 0px 0px 0px;
+}
+
+.Who h2{ 
+  font-weight: lighter;
+  font-size: 1.8rem;
+  color: rgb(71, 71, 71);
+}
+
+.Who h4{ 
+  font-weight: lighter;
+  font-size: 1rem;
+  color: rgb(48, 47, 47);
+  margin: 10px 0px 10px 0px;
+}
+
+.Who p{ 
+  font-weight: lighter;
+  font-size: 0.8rem;
+  color: rgb(71, 71, 71);
+  margin: 0px 0px 4rem 0px;
+  line-height: 1.3rem;
+}
+
+.Who p a{
+  color: rgb(71, 71, 71);
+  
+}
+
+
+.Who img{
+  width: 200px;
+}
+
+.HorizontalLine{
+  width: 30px;
+  background: rgb(0, 0, 0);
+  height: 3px;
+  margin: 0px 0px 4rem 0px;
+}
