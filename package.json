@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "latentstudio",
+  "description": "Laten Studio Website",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Latent Studio <info@latentstudio.com>",
   "dependencies": {
     "bootstrap": "4.1.1",
     "gatsby": "^1.9.247",
@@ -15,7 +15,7 @@
     "react-helmet": "^5.2.0"
   },
   "keywords": [
-    "gatsby"
+    "latentstudio"
   ],
   "license": "MIT",
   "scripts": {

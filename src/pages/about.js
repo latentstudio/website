@@ -54,7 +54,7 @@ class AboutPage extends Component {
             <div className={`col-4 ${styles.Who}`}>
               <img src={cris} alt="Cristóbal Valenzuela"/>
               <h4>Cristóbal Valenzuela</h4>
-              <p>Cristóbal Valenzuela is a technologist, artists and software developer. His work has been sponsored by Google and the Processing Foundation. He is a resident research at New York University Interactive Telecommunications Progam (ITP) and main contributor to <a href="https://ml5js.org/">ml5.js</a>. His work has been exhibited in Latin America and the US, including the Chilean Museum of Modern Art, GAM, Fundacion Telefonica, NYC Media Lab, New Latin Wave, Inter-American Development Bank and Stanford University. He is the author and director of <a href="https://runwayml.com">RunwayML</a>.</p>
+              <p>Cristóbal Valenzuela is a technologist, artist and software developer interested in the intersection between machine learning and creative tools. He is a researcher at New York University and author and director of <a href="https://runwayml.com">RunwayML</a>. He also contributes to OSS and is the main developer of <a href="https://ml5js.org/">ml5.js</a>. His work has been sponsored by Google and the Processing Foundation and his projects has been exhibited in Latin America and the US,including the Santiago Museum of Contemporary Art, GAM, Fundación Telefonica, Lollapalooza, NYC Media Lab, New Latin Wave, Inter-American Development Bank, Stanford University and New York University.</p>
             </div>
           </div>         
         </div>
