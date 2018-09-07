@@ -1,10 +1,11 @@
 ---
 title: "Scenescoop"
 path: "/projects/Scenescoop"
-date: 01-03-2018
+date: 2017-11-01
 thumbnail: 'homepage.png'
 description: 'Scenescoop is a tool to get similar semantic scenes from a pair of videos. Basically, you input a video and get a scene that has a similar meaning in another video.'
 mainImage: 'homepage.png'
+links: []
 ---
 
 Scenescoop is a tool to get similar semantic scenes from a pair of videos. Basically, you input a video and get a scene that has a similar meaning in another video.

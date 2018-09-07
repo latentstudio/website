@@ -1,3 +1,7 @@
+.ProjectContainer {
+  margin: 7rem 0;
+}
+
 .Title{
   margin: 2rem 0px 0px 0px;
   position: relative;
@@ -8,7 +12,7 @@
   background: black;
   font-size: 4rem;
   display: inline-block;
-  padding: 0.4rem 1rem;
+  padding: -0.4rem 1rem;
   color: rgb(228, 228, 228);
   font-family: 'PT Mono', monospace;
 }
@@ -21,9 +25,12 @@
 
 .Description{
   font-weight: lighter;
-  margin: 0vw 0px 7rem 0px;
   font-size: 0.9rem;
   line-height: 2rem;
+}
+
+.Description p {
+  margin: 0.5rem 0;
 }
 
 .MainImage{
@@ -33,4 +40,17 @@
 .MainImage img{
   width: 100%;
   height: 100%;
+}
+
+.Description ul {
+  list-style: square !important;
+}
+
+.Links button {
+  border: 1px solid black;
+  background: none;
+  margin: 1rem 1rem;
+  padding: 0.8rem 6rem;
+  cursor: pointer;
+  font-size: 15px;
 }

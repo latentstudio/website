@@ -30,7 +30,7 @@ class IndexPage extends Component {
             <div key={node.id} className={`row ${styles.Project}`} style={ { background: `rgb(${250 - (i*10)}, ${250 - (i*10)}, ${250 - (i*10)})` } }>
               <div className={`col-12 col-md-4 ${styles.ProjectDescription}`}>
                 <h3>
-                  {node.frontmatter.title}
+                  <Link to={node.frontmatter.path}>{node.frontmatter.title}</Link>
                 </h3>
                 <div className={styles.HorizontalLine}></div>
                 <p>
@@ -55,7 +55,7 @@ export default IndexPage
 
 export const query = graphql `
   query IndexQuery {
-    allMarkdownRemark(sort: { order: ASC, fields: [frontmatter___date] }) {
+    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
       totalCount
       edges {
         node {
@@ -67,6 +67,7 @@ export const query = graphql `
               publicURL
             }
             path
+            date
           }
           excerpt
         }

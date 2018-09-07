@@ -54,6 +54,11 @@
   margin: 0px 0px 10px 0px;
 }
 
+.ProjectDescription h3 a {
+  text-decoration: none;
+  color: inherit;
+}
+
 .ProjectDescription p{
   font-weight: lighter;
   margin: 3vw 0px 0px 0px;

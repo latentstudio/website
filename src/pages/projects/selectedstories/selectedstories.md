@@ -1,10 +1,11 @@
 ---
 title: "Selected Stories"
 path: "/projects/Selected-Stories"
-date: 01-04-2018
+date: 2017-05-01
 thumbnail: 'homepage.png'
 description: 'A text editor that runs a LSTM model while you write to suggest new lines. You can switch between different pretrained models. Everything runs in the browser using tensorflow.js.'
 mainImage: 'homepage.png'
+links: []
 ---
 
 A text editor that runs a LSTM model while you write to suggest new lines. You can switch between different pre trained models

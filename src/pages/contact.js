@@ -2,7 +2,7 @@ import React, {Component} from 'react'
 import Link from 'gatsby-link'
 
 import styles from './styles/contact.module.css';
-import img from './../pages/projects/01uncannyroad/03.jpg';
+import img from './../pages/projects/uncannyroad/03.jpg';
 
 class AboutPage extends Component {
   render() {

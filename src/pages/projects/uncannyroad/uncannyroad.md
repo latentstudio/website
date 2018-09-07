@@ -1,10 +1,11 @@
 ---
 title: "Uncanny Road"
 path: "/projects/Uncanny-Road"
-date: 01-01-2018
+date: 2017-12-01
 thumbnail: 'homepage.png'
 description: 'Uncanny Rd. is a drawing tool that allows users to interactively synthesise street images with the help of Generative Adversarial Networks (GANs)'
 mainImage: '02.jpg'
+links: []
 ---
 
 Uncanny Rd. is a drawing tool that allows users to interactively synthesise street images with the help of Generative Adversarial Networks (GANs). The project uses two AI research papers published this year as a starting point (Image-to-Image Translation Using Conditional Adversarial Networks by Isola et al. and High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs by Wang et al.) to explore the new kinds of human-machine collaboration that deep learning can enable.

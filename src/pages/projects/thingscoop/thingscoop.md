@@ -1,10 +1,11 @@
 ---
 title: "Thingscoop"
 path: "/projects/Thingscoop"
-date: 01-02-2018
+date: 2015-08-01
 thumbnail: 'homepage.jpg'
-description: "Thingscoop is a tool to analyzing videos semantically that means searching, filtering, and describing videos based on objects and places that appear in them. Thingscoop is based on Caffe, an open-source deep learning framework."
+description: "Thingscoop is a tool to analyzing videos semantically–that means searching, filtering, and describing videos based on objects and places that appear in them. Thingscoop is based on Caffe, an open-source deep learning framework."
 mainImage: 'homepage.jpg'
+links: []
 ---
 
 Thingscoop is a tool for analyzing videos semantically - that means searching, filtering, and describing videos based on objects and places that appear in them. Thingscoop is based on Caffe, an open-source deep learning framework.
