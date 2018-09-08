@@ -29,10 +29,10 @@ class AboutPage extends Component {
         <div className='container'>
           <div className='row'>
             <div className={`col-8 offset-1 ${styles.Second}`}>
-              <h1>Building creative projects exploring novel ways of using machine learning.</h1>
-              <h1>Creating artistic research using deep learning and neural networks.</h1>
-              <h1>Developing tools to allow artists and designers to experiment with machine learing.</h1>
-              <h1>Exploring the latent spaces of creative uses artificial intelligence.</h1>
+              <h1>Developing tools that allow artists and designers to experiment with machine learing.</h1>
+              <h1>Putting artificial intelligence in service of the creative industry.</h1>
+              <h1>Exploring the implications of machine learning in society.</h1>
+              <h1>Interested in working with us? <a href='mailto:info@latentstudio.com'>Reach out</a>.</h1>
             </div>
           </div>
         </div>

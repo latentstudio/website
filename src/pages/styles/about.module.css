@@ -9,6 +9,9 @@
   margin: 0px 0px 4rem 0px;
 }
 
+.Second a {
+  color: gray;  
+}
 
 .Second h1{
   font-family: 'PT Mono', monospace;
